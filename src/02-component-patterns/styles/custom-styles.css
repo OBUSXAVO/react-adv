@@ -19,5 +19,10 @@
 .custom-buttons button, .custom-buttons div {
     color: white;
     border-color: white;
+}
 
+.shooping-cart{
+    position: fixed;
+    right: 10px;
+    top: 0px;
 }
